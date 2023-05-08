@@ -11,7 +11,7 @@
 - [How to learn](https://github.com/ggalushko/how-to-learn)
 - [Russian Travel](https://github.com/ggalushko/russian-travel)
 
-[Мое резюме](https://github.com/ggalushko/russian-travel)
+[Мое резюме](https://drive.google.com/file/d/1QoXd1WUq8YcSM0jbgt46WE0GxpuD5iMn/view?usp=sharing)
 
 [Мое резюме (headhunter)](https://github.com/ggalushko/russian-travel)
 
