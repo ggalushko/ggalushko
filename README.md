@@ -4,7 +4,7 @@
 
 <h3>Мои проекты</h2>
 
-- [Todo list](https://github.com/ggalushko/todo-list)
+- [To do list](https://github.com/ggalushko/todo-list)
 - [Online shop](https://github.com/ggalushko/boxing-gloves-shop)
 - [Landing page](https://github.com/ggalushko/landing-page)
 - [Mesto](https://github.com/ggalushko/mesto)
